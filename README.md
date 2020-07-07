@@ -2,8 +2,8 @@
 <h2 align="center"><b>Исследование экосистем веб-языков и веб-технологий</b></h2>
 <p align="center"><b>Студент Щитаев К. В. гр P41071</b></p>
 <p align="center">&nbsp;</p>
-<p>func_001 https://kodaktor.ru/g/cart<br>
-	func_002 https://kodaktor.ru/g/cart<br>
+<p><a href="https://kodaktor.ru/g/cart">func_001</a><br>
+	func_002<br>
 	func_003<br>
 	func_004<br>
 	func_005<br>
