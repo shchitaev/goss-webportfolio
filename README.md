@@ -17,17 +17,6 @@
 	<p><a href="https://kodaktor.ru/bind02032018_25fb1">babl_002</a><br>
 	<br>
 	<p><a href="https://kodaktor.ru/=custom_850d4">evnt_002</a><br>
-	<br>
-	frmw_001<br>
-	frmw_002<br>
-	frmw_003<br>
-	frmw_004<br>
-	frmw_005<br>
-	frmw_006<br>
-	frmw_007<br>
-	<br>
-	you<br>
-	&nbsp;&nbsp;&nbsp;<br>
 	cart&nbsp;&nbsp;&nbsp;<br>
 	<br>
 	<p><a href="https://jsfiddle.net/dxu0hL2j/">mixer</a><br>
