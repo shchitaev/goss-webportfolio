@@ -14,10 +14,12 @@
 <p><a href="https://kodaktor.ru/func_99592">func_010</a><br>
 <p><a href="https://jsfiddle.net/nosf6541/">async-tasks</a><br>
 	<br>
+	<p><a href="https://kodaktor.ru/babl_0eb20">babl_001</a><br>
 	<p><a href="https://kodaktor.ru/bind02032018_25fb1">babl_002</a><br>
 	<br>
+	<p><a href="https://kodaktor.ru/jsin_c5d38">jsin_001</a><br>
+	<br>
 	<p><a href="https://kodaktor.ru/=custom_850d4">evnt_002</a><br>
-	cart&nbsp;&nbsp;&nbsp;<br>
 	<br>
 	<p><a href="https://jsfiddle.net/dxu0hL2j/">mixer</a><br>
 <p>&nbsp;</p>
