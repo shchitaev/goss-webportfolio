@@ -24,4 +24,4 @@
 <br>
 <p><a href="https://jsfiddle.net/dxu0hL2j/">mixer</a><br>
 <br>
-<p><a href="https://github.com/shchitaev/itmo-webportfolio/tree/master/frmw1">frmw_001</a><br>
+<p><a href="https://github.com/shchitaev/itmo-webportfolio/tree/master/frmw">frmw_001</a><br>
