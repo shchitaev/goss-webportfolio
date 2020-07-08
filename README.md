@@ -20,6 +20,8 @@
 <br>
 <p><a href="https://kodaktor.ru/jsin_c5d38">jsin_001</a><br>
 <br>
+<p><a href="https://kodaktor.ru/?!=tern_efee8">tern_001</a><br>
+<br>
 <p><a href="https://kodaktor.ru/=custom_850d4">evnt_002</a><br>
 <br>
 <p><a href="https://jsfiddle.net/dxu0hL2j/">mixer</a><br>
